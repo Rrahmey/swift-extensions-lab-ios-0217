@@ -36,7 +36,7 @@ class StringExtensions: QuickSpec {
             
             it("pigLatin computed property should have ay appended to the string" ) {
 
-                expect(name.pigLatin).to(equal("Osephjay Inglegay Eimerhay Chmittsay"))
+                expect(name.pigLatin).to(equal("Osephjay Inglegay Eimerhay Chmittsay "))
             }
         }
         

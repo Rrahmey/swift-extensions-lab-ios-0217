@@ -252,6 +252,7 @@
 				TargetAttributes = {
 					1BA85B241D25C4FC008D42CE = {
 						CreatedOnToolsVersion = 7.3.1;
+						DevelopmentTeam = 56S3PA4JK8;
 						LastSwiftMigration = 0800;
 					};
 					1BA85B381D25C4FC008D42CE = {
@@ -602,6 +603,7 @@
 			baseConfigurationReference = B67EC0B9E85177B62984CFFE /* Pods-Extensions.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 56S3PA4JK8;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/build/Debug-iphoneos/KIF",
@@ -622,6 +624,7 @@
 			baseConfigurationReference = E5DD57B338C497566D3ACCF6 /* Pods-Extensions.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 56S3PA4JK8;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/build/Debug-iphoneos/KIF",
